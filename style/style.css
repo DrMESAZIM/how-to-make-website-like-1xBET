@@ -1,0 +1,138 @@
+/* Variables */
+:root {  --mainColor: #0c314d;  --hoverColor: #1a5684;
+  --white: #fff;  --primaryColor: #668a28;}
+/* Global Rules */
+
+/* Mob screen */
+@media (min-width: 576px) {
+ 
+/* Small Screen */
+@media (min-width: 768px) {
+  
+/* Medium Screen */
+@media (min-width: 992px) {
+ 
+/* Large Screen */
+@media (min-width: 1200px) {
+  .container {    width: 1140px;  }
+}
+/* Very Large Screen */
+@media (min-width: 1400px) {
+  
+}
+/* header style */
+
+@media (max-width: 767px) {
+  
+}
+
+@media (max-width: 991px) { }
+
+@media (max-width: 767px) {
+  
+
+ 
+}
+@media (max-width: 767px) {
+  
+}
+
+@media (max-width: 767px) {
+  
+}
+
+@media (max-width: 767px) {  
+  
+}
+
+@media (max-width: 767px) {
+ 
+}
+
+@media (max-width: 992px) {
+  
+}
+
+@media (max-width: 992px) {
+ 
+}
+
+@media (max-width: 992px) {
+}
+
+
+/* landing style */
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+/* slider style */
+
+@media (max-width: 767px) {
+  
+}
+
+/* to navigate */
+
+/* slider animation position */
+
+/* live bets style */
+
+@media (max-width: 575px) {
+  
+}
+
+@media (max-width: 575px) {
+  
+}
+
+@media (max-width: 575px) {
+  
+@media (max-width: 575px) {
+  
+}
+
+/* live bets static style */
+
+@media (max-width: 992px) {
+  
+}
+
+@media (max-width: 992px) {
+  
+}
+
+/* static row style */
+@media (max-width: 992px) {
+  
+}
+
+/* sports book style */
+@media (max-width: 575px) {
+
+}
+
+@media (max-width: 575px) {
+  
+}
+/* usa static style */
+
+/* footer style */
+@media (max-width: 767px) {
+  
+
+}
+@media (max-width: 575px) {
+  
+@media (max-width: 767px) {
+  
+}
+
+@media (max-width: 767px) {
+ 
+}
